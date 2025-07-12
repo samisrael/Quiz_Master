@@ -1,5 +1,5 @@
 # Quiz_Master
-## Date:
+## Date: 12/07/2025
 ## Objective:
 To demonstrate the concepts of callback functions and higher-order functions in JavaScript by building a simple quiz scoring system where the evaluation logic is passed as a callback to a higher-order function.
 
