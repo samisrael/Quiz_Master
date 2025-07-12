@@ -160,6 +160,6 @@ function lenientScoring(answers) {
 
 ```
 ## Output:
-
+![alt text](image.png)
 ## Result:
 A mini module using JavaScript callbacks and higher-order functions is successfully created. This reinforces real-world use of passing functions as arguments to other functions and modularizes logic for reusability.
